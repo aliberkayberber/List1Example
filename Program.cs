@@ -18,6 +18,5 @@ for (int i = 0; i < davetliler.Count; i++)
 
 foreach (var item in davetliler)
 {
-    
-    System.Console.WriteLine(item); // konsol ekranına listeyi yazdırıyor
+    System.Console.WriteLine($"{davetliler.IndexOf(item) +1} ---> {item}"); // konsol ekranına listeyi yazdırıyor
 }

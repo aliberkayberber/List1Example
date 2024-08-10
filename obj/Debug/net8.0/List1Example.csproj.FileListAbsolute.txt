@@ -12,3 +12,4 @@
 /Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.pdb
 /Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.genruntimeconfig.cache
 /Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/ref/List1Example.dll
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.sourcelink.json
