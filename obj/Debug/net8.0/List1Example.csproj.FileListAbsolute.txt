@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/List1Example/bin/Debug/net8.0/List1Example
+/Users/aliberkayberber/Documents/Pratikler/List1Example/bin/Debug/net8.0/List1Example.deps.json
+/Users/aliberkayberber/Documents/Pratikler/List1Example/bin/Debug/net8.0/List1Example.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/List1Example/bin/Debug/net8.0/List1Example.dll
+/Users/aliberkayberber/Documents/Pratikler/List1Example/bin/Debug/net8.0/List1Example.pdb
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.dll
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/refint/List1Example.dll
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.pdb
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/List1Example.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/List1Example/obj/Debug/net8.0/ref/List1Example.dll
